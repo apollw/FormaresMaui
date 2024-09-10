@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|c:\\users\\leanderson\\source\\repos\\formaresmaui\\formaresmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|solutionrelative:formaresmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|c:\\users\\leanderson\\source\\repos\\formaresmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|c:\\users\\leanderson\\source\\repos\\formaresmaui\\infrastructure\\licenses\\licensekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|solutionrelative:infrastructure\\licenses\\licensekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|c:\\users\\leanderson\\source\\repos\\formaresmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1116103B-AF60-44D3-9839-D2B0AD843A02}|FormaresMaui.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormaresMaui",
-              "DocumentMoniker": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\FormaresMaui.csproj",
-              "RelativeDocumentMoniker": "FormaresMaui.csproj",
-              "ToolTip": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\FormaresMaui.csproj",
-              "RelativeToolTip": "FormaresMaui.csproj",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-10T02:39:24.481Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -40,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LicenseKey.cs",
+              "DocumentMoniker": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\Infrastructure\\Licenses\\LicenseKey.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Licenses\\LicenseKey.cs",
+              "ToolTip": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\Infrastructure\\Licenses\\LicenseKey.cs",
+              "RelativeToolTip": "Infrastructure\\Licenses\\LicenseKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:43:50.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-10T03:01:53.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Leanderson\\source\\repos\\FormaresMaui\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:59:16.955Z",
+              "EditorCaption": ""
             }
           ]
         }
