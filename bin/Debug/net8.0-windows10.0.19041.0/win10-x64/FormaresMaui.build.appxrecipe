@@ -61,6 +61,12 @@
     <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\loginformares.scale-100.png">
+      <PackagePath>loginformares.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\branches_formares.scale-100.png">
+      <PackagePath>branches_formares.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
@@ -199,20 +205,20 @@
     <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formareslogo.scale-400.png">
-      <PackagePath>formareslogo.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formares_logo.scale-400.png">
+      <PackagePath>formares_logo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formareslogo.scale-200.png">
-      <PackagePath>formareslogo.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formares_logo.scale-200.png">
+      <PackagePath>formares_logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formareslogo.scale-150.png">
-      <PackagePath>formareslogo.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formares_logo.scale-150.png">
+      <PackagePath>formares_logo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formareslogo.scale-125.png">
-      <PackagePath>formareslogo.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formares_logo.scale-125.png">
+      <PackagePath>formares_logo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formareslogo.scale-100.png">
-      <PackagePath>formareslogo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="D:\source\repos\FormaresMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\formares_logo.scale-100.png">
+      <PackagePath>formares_logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\source\repos\FormaresMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FormaresMaui.deps.json">
       <PackagePath>FormaresMaui.deps.json</PackagePath>
@@ -222,6 +228,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\communitytoolkit.maui\9.1.0\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\communitytoolkit.maui.core\9.1.0\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -336,6 +348,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\microsoft.maui.controls.core\8.0.91\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
